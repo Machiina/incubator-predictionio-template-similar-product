@@ -1,10 +1,10 @@
 {
   "id": "default",
   "description": "Default settings",
-  "engineFactory": "org.example.similarproduct.SimilarProductEngine",
+  "engineFactory": "org.apache.predictionio.examples.similarproduct.SimilarProductEngine",
   "datasource": {
     "params" : {
-      "appName": "INVALID_APP_NAME"
+      "appName": "MyApp1"
     }
   },
   "algorithms": [
