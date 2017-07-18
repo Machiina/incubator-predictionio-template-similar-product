@@ -1,10 +1,10 @@
 {
-  "id": "default",
+  "id": "3",
   "description": "Default settings",
   "engineFactory": "org.example.similarproduct.SimilarProductEngine",
   "datasource": {
     "params" : {
-      "appName": "INVALID_APP_NAME"
+      "appName": "MyApp3"
     }
   },
   "algorithms": [
